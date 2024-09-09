@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://disuyessite.netlify.app/sitemap.xml
